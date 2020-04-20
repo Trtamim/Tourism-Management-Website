@@ -5,9 +5,9 @@ Online Tourism Management is a very user friendly project where user can easily 
 
 Goal:
 
-1)Can possible very fast torism packages booking.
+1)Can possible very fast tourism packages booking.
 2)Customer can easily book packages, search facilities, give his opinion about services in online so it will save their time and help owners to fulfill customer demands.
-3)Here we set a option to give customer’s enquires so that a customer have any quires or questions to know about our management they can easily mail us.We try to reply as fast as much possible.
+3)Here we set a option to give customerâ€™s enquires so that a customer have any quires or questions to know about our management they can easily mail us.We try to reply as fast as much possible.
 
 
 Project description:
@@ -33,21 +33,21 @@ Users activity :
 Customers (users) can register into website. They can log-in, they can see feature, services provided by management, available tour packages they can choice. They can book tour packages , cancel bookings, and they can confirm theirs bookings. At last customer can give their feedbacks, update & delete feedbacks.They can also give enquires.
 
 
-Admin’s activity:
-Admin can insert, update, delete facilities, packages. Admin can cancel anyone’s booking. If needed he can delete any customer ’s account. Admin can handle all kind of data.
+Adminâ€™s activity:
+Admin can insert, update, delete facilities, packages. Admin can cancel anyoneâ€™s booking. If needed he can delete any customer â€™s account. Admin can handle all kind of data.
 
 To built this site here is using html,css,jquery,bootstrap,mysql,php.
 
 
 In backend following task was performed
-•Tables to store data.
-•Queries to find and retrieve specific data of interest.
-•Forms to view, add, and update data in tables.
-•Data access pages to view or update, the data.
+â€¢Tables to store data.
+â€¢Queries to find and retrieve specific data of interest.
+â€¢Forms to view, add, and update data in tables.
+â€¢Data access pages to view or update, the data.
 
 Notice:
  You have to first import tms.sql file. Otherwise, you can't open this website. 
  Login Details for admin : admin/Test@123
  Login Details for user: ab@gmail.com/ab
 
-This project is designed to meet the requirements of Online Tourism Management. It’s aim is to build a site which can save both money and time of customers and also build an environment so that customers can give theirs feedbacks and also owners can know customer demands .
+This project is designed to meet the requirements of Online Tourism Management. Itâ€™s aim is to build a site which can save both money and time of customers and also build an environment so that customers can give theirs feedbacks and also owners can know customer demands .
